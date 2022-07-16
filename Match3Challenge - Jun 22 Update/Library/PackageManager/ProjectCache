@@ -1,0 +1,575 @@
+m_ProjectFiles:
+  m_ManifestFileStatus:
+    m_FilePath: /Users/archit3ct/Documents/Code/Unity/TactileGamesInterview/Match3Challenge
+      - Jun 22 Update/Packages/manifest.json
+    m_PathExists: 1
+    m_ContentTrackingEnabled: 1
+    m_ModificationDate:
+      serializedVersion: 2
+      ticks: 637935934090000000
+    m_Hash: 86091979
+  m_LockFileStatus:
+    m_FilePath: /Users/archit3ct/Documents/Code/Unity/TactileGamesInterview/Match3Challenge
+      - Jun 22 Update/Packages/packages-lock.json
+    m_PathExists: 1
+    m_ContentTrackingEnabled: 1
+    m_ModificationDate:
+      serializedVersion: 2
+      ticks: 637935934090000000
+    m_Hash: 2863000303
+m_EmbeddedPackageManifests:
+  m_ManifestsStatus: {}
+m_PackageAssets:
+  m_Packages:
+    m_ResolvedPackages:
+    - packageId: com.unity.test-framework@1.1.18
+      testable: 0
+      isDirectDependency: 1
+      version: 1.1.18
+      source: 1
+      resolvedPath: /Users/archit3ct/Documents/Code/Unity/TactileGamesInterview/Match3Challenge
+        - Jun 22 Update/Library/PackageCache/com.unity.test-framework@1.1.18
+      assetPath: Packages/com.unity.test-framework
+      name: com.unity.test-framework
+      displayName: Test Framework
+      author:
+        name: 
+        email: 
+        url: 
+      category: Unity Test Framework
+      type: 
+      description: Test framework for running Edit mode and Play mode tests in Unity.
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 0.0.4-preview
+        - 0.0.29-preview
+        - 1.0.0
+        - 1.0.7
+        - 1.0.9
+        - 1.0.11
+        - 1.0.12
+        - 1.0.13
+        - 1.0.14
+        - 1.0.16
+        - 1.0.17
+        - 1.0.18
+        - 1.1.0
+        - 1.1.1
+        - 1.1.2
+        - 1.1.3
+        - 1.1.5
+        - 1.1.8
+        - 1.1.9
+        - 1.1.11
+        - 1.1.13
+        - 1.1.14
+        - 1.1.16
+        - 1.1.18
+        - 1.1.19
+        - 1.1.20
+        - 1.1.22
+        - 1.1.24
+        - 1.1.26
+        - 1.1.27
+        - 1.1.29
+        - 1.1.30
+        - 1.1.31
+        - 2.0.1-exp.1
+        - 2.0.1-pre.12
+        - 2.0.1-pre.18
+        compatible:
+        - 1.1.29
+        - 1.1.30
+        - 1.1.31
+        - 2.0.1-exp.1
+        - 2.0.1-pre.12
+        - 2.0.1-pre.18
+        verified: 1.1.31
+      dependencies:
+      - name: com.unity.ext.nunit
+        version: 1.0.0
+      - name: com.unity.modules.imgui
+        version: 1.0.0
+      - name: com.unity.modules.jsonserialize
+        version: 1.0.0
+      resolvedDependencies:
+      - name: com.unity.ext.nunit
+        version: 1.0.0
+      - name: com.unity.modules.imgui
+        version: 1.0.0
+      - name: com.unity.modules.jsonserialize
+        version: 1.0.0
+      keywords:
+      - Test
+      - TestFramework
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637378481950000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: git+https://github.com/Unity-Technologies/com.unity.test-framework.git
+        revision: 14025b364215f4465cbe1beb7a81e486b2687ced
+        path: 
+    - packageId: com.unity.textmeshpro@3.0.6
+      testable: 0
+      isDirectDependency: 1
+      version: 3.0.6
+      source: 1
+      resolvedPath: /Users/archit3ct/Documents/Code/Unity/TactileGamesInterview/Match3Challenge
+        - Jun 22 Update/Library/PackageCache/com.unity.textmeshpro@3.0.6
+      assetPath: Packages/com.unity.textmeshpro
+      name: com.unity.textmeshpro
+      displayName: TextMeshPro
+      author:
+        name: 
+        email: 
+        url: 
+      category: Text Rendering
+      type: 
+      description: 'TextMeshPro is the ultimate text solution for Unity. It''s the
+        perfect replacement for Unity''s UI Text and the legacy Text Mesh.
+
+
+        Powerful
+        and easy to use, TextMeshPro (also known as TMP) uses Advanced Text Rendering
+        techniques along with a set of custom shaders; delivering substantial visual
+        quality improvements while giving users incredible flexibility when it comes
+        to text styling and texturing.
+
+
+        TextMeshPro provides Improved Control
+        over text formatting and layout with features like character, word, line
+        and paragraph spacing, kerning, justified text, Links, over 30 Rich Text
+        Tags available, support for Multi Font & Sprites, Custom Styles and more.
+
+
+        Great
+        performance. Since the geometry created by TextMeshPro uses two triangles
+        per character just like Unity''s text components, this improved visual quality
+        and flexibility comes at no additional performance cost.'
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 0.1.2
+        - 1.0.21
+        - 1.0.23
+        - 1.0.25
+        - 1.0.26
+        - 1.1.0
+        - 1.2.0
+        - 1.2.1
+        - 1.2.2
+        - 1.2.3
+        - 1.2.4
+        - 1.3.0-preview
+        - 1.3.0
+        - 1.4.0-preview.1b
+        - 1.4.0-preview.2a
+        - 1.4.0-preview.3a
+        - 1.4.0
+        - 1.4.1-preview.1
+        - 1.4.1
+        - 1.5.0-preview.1
+        - 1.5.0-preview.2
+        - 1.5.0-preview.3
+        - 1.5.0-preview.4
+        - 1.5.0-preview.5
+        - 1.5.0-preview.6
+        - 1.5.0-preview.7
+        - 1.5.0-preview.8
+        - 1.5.0-preview.10
+        - 1.5.0-preview.11
+        - 1.5.0-preview.12
+        - 1.5.0-preview.13
+        - 1.5.0-preview.14
+        - 1.5.0
+        - 1.5.1
+        - 1.5.3
+        - 1.5.4
+        - 1.5.5
+        - 1.5.6
+        - 1.6.0-preview.1
+        - 2.0.0
+        - 2.0.1-preview.1
+        - 2.0.1
+        - 2.1.0-preview.1
+        - 2.1.0-preview.2
+        - 2.1.0-preview.3
+        - 2.1.0-preview.4
+        - 2.1.0-preview.5
+        - 2.1.0-preview.7
+        - 2.1.0-preview.8
+        - 2.1.0-preview.10
+        - 2.1.0-preview.11
+        - 2.1.0-preview.12
+        - 2.1.0-preview.13
+        - 2.1.0-preview.14
+        - 2.1.0
+        - 2.1.1
+        - 2.1.3
+        - 2.1.4
+        - 2.1.5
+        - 2.1.6
+        - 2.2.0-preview.1
+        - 2.2.0-preview.2
+        - 2.2.0-preview.3
+        - 3.0.0-preview.1
+        - 3.0.0-preview.3
+        - 3.0.0-preview.4
+        - 3.0.0-preview.5
+        - 3.0.0-preview.7
+        - 3.0.0-preview.8
+        - 3.0.0-preview.10
+        - 3.0.0-preview.11
+        - 3.0.0-preview.12
+        - 3.0.0-preview.13
+        - 3.0.0-preview.14
+        - 3.0.0
+        - 3.0.1
+        - 3.0.3
+        - 3.0.4
+        - 3.0.5
+        - 3.0.6
+        - 3.2.0-pre.1
+        - 3.2.0-pre.2
+        - 3.2.0-pre.3
+        - 4.0.0-pre.1
+        compatible:
+        - 3.0.6
+        - 3.2.0-pre.1
+        - 3.2.0-pre.2
+        - 3.2.0-pre.3
+        verified: 3.0.6
+      dependencies:
+      - name: com.unity.ugui
+        version: 1.0.0
+      resolvedDependencies:
+      - name: com.unity.ugui
+        version: 1.0.0
+      - name: com.unity.modules.ui
+        version: 1.0.0
+      - name: com.unity.modules.imgui
+        version: 1.0.0
+      keywords:
+      - TextMeshPro
+      - TextMesh Pro
+      - TMP
+      - Text
+      - SDF
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637547111200000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: https://github.cds.internal.unity3d.com/unity/com.unity.textmeshpro.git
+        revision: 01e57e3b7de18af9dfe9baaa0a0ff5cc4765c899
+        path: 
+    - packageId: com.unity.ugui@1.0.0
+      testable: 0
+      isDirectDependency: 0
+      version: 1.0.0
+      source: 2
+      resolvedPath: /Users/archit3ct/Documents/Code/Unity/TactileGamesInterview/Match3Challenge
+        - Jun 22 Update/Library/PackageCache/com.unity.ugui@1.0.0
+      assetPath: Packages/com.unity.ugui
+      name: com.unity.ugui
+      displayName: Unity UI
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: 
+      description: "Unity UI is a UI toolkit for developing user interfaces for games
+        and applications. It is a GameObject-based UI system that uses Components
+        and the Game View to arrange, position, and style user interfaces. \u200B
+        You cannot use Unity UI to create or change user interfaces in the Unity
+        Editor."
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 1.0.0
+        compatible:
+        - 1.0.0
+        verified: 1.0.0
+      dependencies:
+      - name: com.unity.modules.ui
+        version: 1.0.0
+      - name: com.unity.modules.imgui
+        version: 1.0.0
+      resolvedDependencies:
+      - name: com.unity.modules.ui
+        version: 1.0.0
+      - name: com.unity.modules.imgui
+        version: 1.0.0
+      keywords:
+      - UI
+      - ugui
+      - Unity UI
+      - Canvas
+      registry:
+        id: 
+        name: 
+        url: 
+        scopes: []
+        isDefault: 0
+        capabilities: 0
+      hasRegistry: 0
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 0
+      documentationUrl: 
+      hasRepository: 0
+      repository:
+        type: 
+        url: 
+        revision: 
+        path: 
+    - packageId: com.unity.ext.nunit@1.0.0
+      testable: 0
+      isDirectDependency: 0
+      version: 1.0.0
+      source: 1
+      resolvedPath: /Users/archit3ct/Documents/Code/Unity/TactileGamesInterview/Match3Challenge
+        - Jun 22 Update/Library/PackageCache/com.unity.ext.nunit@1.0.0
+      assetPath: Packages/com.unity.ext.nunit
+      name: com.unity.ext.nunit
+      displayName: Custom NUnit
+      author:
+        name: 
+        email: 
+        url: 
+      category: Libraries
+      type: 
+      description: Custom version of the nunit package build to work with Unity.
+        Used by the Unity Test Framework.
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 0.1.5-preview
+        - 0.1.6-preview
+        - 0.1.9-preview
+        - 1.0.0
+        - 1.0.5
+        - 1.0.6
+        - 2.0.2
+        - 2.0.3
+        compatible:
+        - 0.1.5-preview
+        - 0.1.6-preview
+        - 0.1.9-preview
+        - 1.0.0
+        - 1.0.5
+        - 1.0.6
+        - 2.0.2
+        - 2.0.3
+        verified: 1.0.6
+      dependencies: []
+      resolvedDependencies: []
+      keywords:
+      - nunit
+      - unittest
+      - test
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 636898893830000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: git@gitlab.cds.internal.unity3d.com/upm-packages/core/com.unity.ext.nunit.git
+        revision: c8f5044ffe6adb909f9836160b0bdaa30f2d1ec9
+        path: 
+    - packageId: com.unity.modules.imgui@1.0.0
+      testable: 0
+      isDirectDependency: 0
+      version: 1.0.0
+      source: 2
+      resolvedPath: /Users/archit3ct/Documents/Code/Unity/TactileGamesInterview/Match3Challenge
+        - Jun 22 Update/Library/PackageCache/com.unity.modules.imgui@1.0.0
+      assetPath: Packages/com.unity.modules.imgui
+      name: com.unity.modules.imgui
+      displayName: IMGUI
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: module
+      description: 'The IMGUI module provides Unity''s immediate mode GUI solution
+        for creating in-game and editor user interfaces. Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.IMGUIModule.html'
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 1.0.0
+        compatible:
+        - 1.0.0
+        verified: 1.0.0
+      dependencies: []
+      resolvedDependencies: []
+      keywords: []
+      registry:
+        id: 
+        name: 
+        url: 
+        scopes: []
+        isDefault: 0
+        capabilities: 0
+      hasRegistry: 0
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 0
+      documentationUrl: 
+      hasRepository: 0
+      repository:
+        type: 
+        url: 
+        revision: 
+        path: 
+    - packageId: com.unity.modules.jsonserialize@1.0.0
+      testable: 0
+      isDirectDependency: 0
+      version: 1.0.0
+      source: 2
+      resolvedPath: /Users/archit3ct/Documents/Code/Unity/TactileGamesInterview/Match3Challenge
+        - Jun 22 Update/Library/PackageCache/com.unity.modules.jsonserialize@1.0.0
+      assetPath: Packages/com.unity.modules.jsonserialize
+      name: com.unity.modules.jsonserialize
+      displayName: JSONSerialize
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: module
+      description: 'The JSONSerialize module provides the JsonUtility class which
+        lets you serialize Unity Objects to JSON format. Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.JSONSerializeModule.html'
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 1.0.0
+        compatible:
+        - 1.0.0
+        verified: 1.0.0
+      dependencies: []
+      resolvedDependencies: []
+      keywords: []
+      registry:
+        id: 
+        name: 
+        url: 
+        scopes: []
+        isDefault: 0
+        capabilities: 0
+      hasRegistry: 0
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 0
+      documentationUrl: 
+      hasRepository: 0
+      repository:
+        type: 
+        url: 
+        revision: 
+        path: 
+    - packageId: com.unity.modules.ui@1.0.0
+      testable: 0
+      isDirectDependency: 0
+      version: 1.0.0
+      source: 2
+      resolvedPath: /Users/archit3ct/Documents/Code/Unity/TactileGamesInterview/Match3Challenge
+        - Jun 22 Update/Library/PackageCache/com.unity.modules.ui@1.0.0
+      assetPath: Packages/com.unity.modules.ui
+      name: com.unity.modules.ui
+      displayName: UI
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: module
+      description: 'The UI module implements basic components required for Unity''s
+        UI system Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.UIModule.html'
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 1.0.0
+        compatible:
+        - 1.0.0
+        verified: 1.0.0
+      dependencies: []
+      resolvedDependencies: []
+      keywords: []
+      registry:
+        id: 
+        name: 
+        url: 
+        scopes: []
+        isDefault: 0
+        capabilities: 0
+      hasRegistry: 0
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 0
+      documentationUrl: 
+      hasRepository: 0
+      repository:
+        type: 
+        url: 
+        revision: 
+        path: 
+  m_LocalPackages:
+    m_LocalFileStatus: []
+m_ProjectPath: /Users/archit3ct/Documents/Code/Unity/TactileGamesInterview/Match3Challenge
+  - Jun 22 Update/Packages
+m_EditorVersion: 2020.3.30f1 (1fb1bf06830e)
