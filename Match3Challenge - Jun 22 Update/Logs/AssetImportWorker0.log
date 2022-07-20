@@ -1,0 +1,440 @@
+Unity Editor version:    2020.3.30f1 (1fb1bf06830e)
+Branch:                  2020.3/staging
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 12.4 (Build 21F79)
+Darwin version:          21.5.0
+Architecture:            x86_64
+Running under Rosetta:   YES
+Available memory:        32768 MB
+Using pre-set license
+Pro License: NO
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.30f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/archit3ct/Documents/Code/Unity/TactileGamesInterview/Match3Challenge - Jun 22 Update
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+57479
+Successfully changed project path to: /Users/archit3ct/Documents/Code/Unity/TactileGamesInterview/Match3Challenge - Jun 22 Update
+/Users/archit3ct/Documents/Code/Unity/TactileGamesInterview/Match3Challenge - Jun 22 Update
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 7.98 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.30f1 (1fb1bf06830e)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.30f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/archit3ct/Documents/Code/Unity/TactileGamesInterview/Match3Challenge - Jun 22 Update/Assets
+GfxDevice: creating device client; threaded=0
+2022-07-19 11:55:21.387 Unity[72961:2158449] (null) preferred device: Apple M1 Pro (high power)
+2022-07-19 11:55:21.387 Unity[72961:2158449] Metal devices available: 1
+2022-07-19 11:55:21.387 Unity[72961:2158449] 0: Apple M1 Pro (high power)
+2022-07-19 11:55:21.387 Unity[72961:2158449] Using device Apple M1 Pro (high power)
+Initializing Metal device caps: Apple M1 Pro
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.30f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.30f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.30f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56961
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.30f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000322 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 8.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.347 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1347ms)
+		BeginReloadAssembly (95ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (3ms)
+		EndReloadAssembly (1116ms)
+			LoadAssemblies (94ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (225ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (51ms)
+			SetupLoadedEditorAssemblies (544ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (13ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (8ms)
+				BeforeProcessingInitializeOnLoad (85ms)
+				ProcessInitializeOnLoadAttributes (339ms)
+				ProcessInitializeOnLoadMethodAttributes (97ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000193 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/archit3ct/Documents/Code/Unity/TactileGamesInterview/Match3Challenge - Jun 22 Update/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.11 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.685 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1686ms)
+		BeginReloadAssembly (276ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (30ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (47ms)
+		EndReloadAssembly (1305ms)
+			LoadAssemblies (183ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (248ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (55ms)
+			SetupLoadedEditorAssemblies (555ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (14ms)
+				SetLoadedEditorAssemblies (2ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (157ms)
+				ProcessInitializeOnLoadAttributes (364ms)
+				ProcessInitializeOnLoadMethodAttributes (17ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (32ms)
+Platform modules already initialized, skipping
+Validating Project structure ... 0.000488 seconds.
+Shader import version has changed; will reimport all shaders...
+Upgrading shader files ...0.000549 seconds.
+Application.AssetDatabase Initial Script Refresh Start
+RefreshInfo: InitialScriptRefreshV2(NoUpdateAssetOptions) scanfilter:  ... 1 filters
+RefreshProfiler: Total: 0.000ms
+Application.AssetDatabase Initial Script Refresh End
+Application.AssetDatabase.Refresh Start
+Application.AssetDatabase.Refresh End
+RefreshInfo: StopAssetImportingV2(ForceSynchronousImport) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.30f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.03 seconds
+Initializing Unity extensions:
+[C# Project] Writing /Users/archit3ct/Documents/Code/Unity/TactileGamesInterview/Match3Challenge - Jun 22 Update/Match3Challenge - Jun 22 Update.sln because it has changed
+[C# Project] First difference on line 4
+
+[C# Project] Current /Users/archit3ct/Documents/Code/Unity/TactileGamesInterview/Match3Challenge - Jun 22 Update/Match3Challenge - Jun 22 Update.sln:
+[C# Project]   004: Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{72AB7081-11EB-3476-E6C0-EABC6BECACB1}"
+[C# Project]   005: EndProject
+[C# Project]   006: Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{719FC207-90D0-FAEC-AC03-44074054F4DD}"
+[C# Project]   007: EndProject
+[C# Project]   008: Global
+
+[C# Project] New /Users/archit3ct/Documents/Code/Unity/TactileGamesInterview/Match3Challenge - Jun 22 Update/Match3Challenge - Jun 22 Update.sln:
+[C# Project]   004: Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityEngine.UI.Tests", "UnityEngine.UI.Tests.csproj", "{48162626-992D-183E-2DFE-23D1217DEB3B}"
+[C# Project]   005: EndProject
+[C# Project]   006: Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.TextMeshPro", "Unity.TextMeshPro.csproj", "{67C00174-44E5-7FC9-E8FC-839B5AB59C79}"
+[C# Project]   007: EndProject
+[C# Project]   008: Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityEngine.TestRunner", "UnityEngine.TestRunner.csproj", "{6A4885DA-D60E-5D7C-249D-2D711CFFAEFC}"
+[C# Project] Writing /Users/archit3ct/Documents/Code/Unity/TactileGamesInterview/Match3Challenge - Jun 22 Update/Assembly-CSharp.csproj because it has changed
+[C# Project] First difference on line 76
+
+[C# Project] Current /Users/archit3ct/Documents/Code/Unity/TactileGamesInterview/Match3Challenge - Jun 22 Update/Assembly-CSharp.csproj:
+[C# Project]   076:     <Reference Include="UnityEngine.ARModule">
+[C# Project]   077:       <HintPath>/Applications/Unity/Hub/Editor/2020.3.30f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.ARModule.dll</HintPath>
+[C# Project]   078:     </Reference>
+[C# Project]   079:     <Reference Include="UnityEngine.AccessibilityModule">
+[C# Project]   080:       <HintPath>/Applications/Unity/Hub/Editor/2020.3.30f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AccessibilityModule.dll</HintPath>
+
+[C# Project] New /Users/archit3ct/Documents/Code/Unity/TactileGamesInterview/Match3Challenge - Jun 22 Update/Assembly-CSharp.csproj:
+[C# Project]   076:     <Reference Include="UnityEngine.AIModule">
+[C# Project]   077:       <HintPath>/Applications/Unity/Hub/Editor/2020.3.30f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
+[C# Project]   078:     </Reference>
+[C# Project]   079:     <Reference Include="UnityEngine.ARModule">
+[C# Project]   080:       <HintPath>/Applications/Unity/Hub/Editor/2020.3.30f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.ARModule.dll</HintPath>
+[C# Project] Writing /Users/archit3ct/Documents/Code/Unity/TactileGamesInterview/Match3Challenge - Jun 22 Update/Assembly-CSharp-Editor.csproj because it has changed
+[C# Project] First difference on line 290
+
+[C# Project] Current /Users/archit3ct/Documents/Code/Unity/TactileGamesInterview/Match3Challenge - Jun 22 Update/Assembly-CSharp-Editor.csproj:
+[C# Project]   290:     <Reference Include="UnityEditor.iOS.Extensions">
+[C# Project]   291:       <HintPath>/Applications/Unity/Hub/Editor/2020.3.30f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll</HintPath>
+[C# Project]   292:     </Reference>
+[C# Project]   293:     <Reference Include="SyntaxTree.VisualStudio.Unity.Bridge">
+[C# Project]   294:       <HintPath>/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/MonoDevelop.Unity/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
+
+[C# Project] New /Users/archit3ct/Documents/Code/Unity/TactileGamesInterview/Match3Challenge - Jun 22 Update/Assembly-CSharp-Editor.csproj:
+[C# Project]   290:     <Reference Include="SyntaxTree.VisualStudio.Unity.Bridge">
+[C# Project]   291:       <HintPath>/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/MonoDevelop.Unity/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
+[C# Project]   292:     </Reference>
+[C# Project]   293:     <Reference Include="nunit.framework">
+[C# Project]   294:       <HintPath>/Users/archit3ct/Documents/Code/Unity/TactileGamesInterview/Match3Challenge - Jun 22 Update/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
+2022-07-19 11:55:25.558 Unity[72961:2158449] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x7f9134b712a0 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+2022-07-19 11:55:25.561 Unity[72961:2158449] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x7f91349a11f0 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+========================================================================
+Worker process is ready to serve import requests
+Refreshing native plugins compatible for Editor in 0.06 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 610 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.6 MB.
+System memory in use after: 130.7 MB.
+
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 1091.
+Total: 2.333750 ms (FindLiveObjects: 0.056125 ms CreateObjectMapping: 0.017875 ms MarkObjects: 1.849084 ms  DeleteObjects: 0.410000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Sprites/Normal_Yellow.png
+  artifactKey: Guid(c53c249c228ab4328a95ea4d85d27c90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Normal_Yellow.png using Guid(c53c249c228ab4328a95ea4d85d27c90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2cabb7387c071c9b5f3aff0223ee171') in 0.568880 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.002697 seconds.
+  path: Assets/Sprites/Rocket_Vertical.png
+  artifactKey: Guid(c97fb858861534436b7807edb92db828) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Rocket_Vertical.png using Guid(c97fb858861534436b7807edb92db828) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2db297614a770a8601d982caee2d2c44') in 0.037051 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000689 seconds.
+  path: Assets/Sprites/Rocket_Horizontal.png
+  artifactKey: Guid(3e80db370f0b94c4c83b9acc3fe13f88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Rocket_Horizontal.png using Guid(3e80db370f0b94c4c83b9acc3fe13f88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bbcce6140b1e392612ddaf4723f9fd7') in 0.010881 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Sprites/Normal_Blue.png
+  artifactKey: Guid(3db1d3122a9c74e2fa7b69012cea13c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Normal_Blue.png using Guid(3db1d3122a9c74e2fa7b69012cea13c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b29e1a05725a8ed7cbf80c715ec209c9') in 0.009785 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Sprites/Normal_Pink.png
+  artifactKey: Guid(fd8201633fc1b40008a9e8e1d331c69a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Normal_Pink.png using Guid(fd8201633fc1b40008a9e8e1d331c69a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f1d4bed37bf4f6e5ba6c62edf2a3dc1') in 0.009222 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Sprites/Normal_Red.png
+  artifactKey: Guid(1ac07a60e7c404a4f97024e8a418bc33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Normal_Red.png using Guid(1ac07a60e7c404a4f97024e8a418bc33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25acfc4fa116f06ff861dfe559ee2b84') in 0.010293 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Sprites/Normal_Orange.png
+  artifactKey: Guid(46f21f0f931e74ab182328a6d91b3f9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Normal_Orange.png using Guid(46f21f0f931e74ab182328a6d91b3f9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07b60f02dfb8262d05c44b6110a2efb4') in 0.008700 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.396539 seconds.
+  path: Assets/Scripts/Model
+  artifactKey: Guid(faaf05a7ecad04eb1b6b69bf81153a09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Model using Guid(faaf05a7ecad04eb1b6b69bf81153a09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '789689e97d4ddae17bc338e6609d37b9') in 0.000797 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.831342 seconds.
+  path: Assets/Scripts/Model/Board.cs
+  artifactKey: Guid(c14c20a80b91420681c0ac0712ca5ea0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Model/Board.cs using Guid(c14c20a80b91420681c0ac0712ca5ea0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2758ef1093b19af95f384c4f0465e621') in 0.119719 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 563.513255 seconds.
+  path: Assets/Scripts/Model/ResolveResult.cs
+  artifactKey: Guid(f80f41358f6a429da03b399c2721cf4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Model/ResolveResult.cs using Guid(f80f41358f6a429da03b399c2721cf4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f67ac82ca48f8b613382b9f1032faa6c') in 0.003269 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 20606.299301 seconds.
+  path: Assets/Scripts/Model/BoardPos.cs
+  artifactKey: Guid(f2972db7b63b42d28c684653140a174b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Model/BoardPos.cs using Guid(f2972db7b63b42d28c684653140a174b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6cfa1278cfb883331803e211481fc42') in 0.001664 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000189 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/archit3ct/Documents/Code/Unity/TactileGamesInterview/Match3Challenge - Jun 22 Update/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.12 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+2022-07-20 21:26:36.383 Unity[72961:2158449] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x7f9131b18c50 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Mono: successfully reloaded assembly
+- Completed reload, in  1.754 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1755ms)
+		BeginReloadAssembly (196ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (30ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (63ms)
+		EndReloadAssembly (1450ms)
+			LoadAssemblies (198ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (251ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (53ms)
+			SetupLoadedEditorAssemblies (643ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (17ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (209ms)
+				ProcessInitializeOnLoadAttributes (395ms)
+				ProcessInitializeOnLoadMethodAttributes (20ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (36ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.12 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 603 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 136.3 MB.
+System memory in use after: 136.4 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1103.
+Total: 1.853833 ms (FindLiveObjects: 0.066250 ms CreateObjectMapping: 0.017416 ms MarkObjects: 1.746209 ms  DeleteObjects: 0.019125 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000198 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/archit3ct/Documents/Code/Unity/TactileGamesInterview/Match3Challenge - Jun 22 Update/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.12 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+2022-07-20 21:27:36.827 Unity[72961:2158449] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x7f9134918970 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Mono: successfully reloaded assembly
+- Completed reload, in  1.769 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1769ms)
+		BeginReloadAssembly (187ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (29ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (54ms)
+		EndReloadAssembly (1469ms)
+			LoadAssemblies (194ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (251ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (53ms)
+			SetupLoadedEditorAssemblies (639ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (16ms)
+				SetLoadedEditorAssemblies (2ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (210ms)
+				ProcessInitializeOnLoadAttributes (393ms)
+				ProcessInitializeOnLoadMethodAttributes (17ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (35ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.11 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 603 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 136.4 MB.
+System memory in use after: 136.5 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1105.
+Total: 1.877375 ms (FindLiveObjects: 0.049584 ms CreateObjectMapping: 0.017125 ms MarkObjects: 1.792042 ms  DeleteObjects: 0.017750 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000271 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/archit3ct/Documents/Code/Unity/TactileGamesInterview/Match3Challenge - Jun 22 Update/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.12 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+2022-07-20 21:28:44.488 Unity[72961:2158449] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x7f9134918930 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Mono: successfully reloaded assembly
+- Completed reload, in  1.690 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1691ms)
+		BeginReloadAssembly (188ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (31ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (49ms)
+		EndReloadAssembly (1392ms)
+			LoadAssemblies (203ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (251ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (52ms)
+			SetupLoadedEditorAssemblies (602ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (16ms)
+				SetLoadedEditorAssemblies (2ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (202ms)
+				ProcessInitializeOnLoadAttributes (364ms)
+				ProcessInitializeOnLoadMethodAttributes (17ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (33ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.06 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 603 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 136.6 MB.
+System memory in use after: 136.6 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1107.
+Total: 1.758666 ms (FindLiveObjects: 0.046917 ms CreateObjectMapping: 0.016583 ms MarkObjects: 1.682292 ms  DeleteObjects: 0.012167 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 

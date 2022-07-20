@@ -134,9 +134,11 @@ namespace Tactile.TactileMatch3Challenge.Model {
             }
 
             for (int i = 0; i < neighbors.Length; i++) {
-                
+
+                //neighbor.type >=
+
                 var neighbor = neighbors[i];
-                if (!searched.Contains(neighbor) && neighbor.type >= piece.type) {
+                if (!searched.Contains(neighbor) && neighbor.type == piece.type) {
                     SearchForConnected(neighbor, searched);
                 }
             }
@@ -172,7 +174,7 @@ namespace Tactile.TactileMatch3Challenge.Model {
 		}
 
 		public ResolveResult MoveAndCreatePiecesUntilFull() {
-			
+
 			var result = new ResolveResult();
 			
 			int resolveStep = 0;
